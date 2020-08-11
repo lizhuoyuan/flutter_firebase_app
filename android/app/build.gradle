@@ -59,6 +59,9 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
 
+    //firebase
+    //implementation 'com.google.firebase:firebase-core:17.4.4'
     implementation 'com.google.firebase:firebase-messaging:20.2.4'
 }
+
 apply plugin: 'com.google.gms.google-services'
