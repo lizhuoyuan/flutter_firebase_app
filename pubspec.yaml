@@ -21,8 +21,9 @@ dependencies:
     sdk: flutter
 
   # firebase
- # firebase_core: ^0.4.5
   firebase_messaging: ^6.0.16
+
+  flutter_local_notifications: ^1.4.4+2
 
 dev_dependencies:
   flutter_test:
